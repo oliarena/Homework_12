@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task_2.PersonPresenter">
+    <Position X="3" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAgAEAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>PersonPresenter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_model" />
+      <Field Name="_view" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Task_2.PersonModel">
+    <Position X="5.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_2.PersonView">
+    <Position X="0.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
